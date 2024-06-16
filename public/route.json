@@ -1,0 +1,122 @@
+[
+    {
+        "bus_no": "1",
+        "up_time": "08:00",
+        "down_time": "17:00",
+        "route": "Route 1"
+    },
+    {
+        "bus_no": "2",
+        "up_time": "09:30",
+        "down_time": "18:30",
+        "route": "Route 2"
+    },
+    {
+        "bus_no": "3",
+        "up_time": "07:45",
+        "down_time": "16:45",
+        "route": "Route 3"
+    },
+    {
+        "bus_no": "4",
+        "up_time": "10:15",
+        "down_time": "19:15",
+        "route": "Route 4"
+    },
+    {
+        "bus_no": "5",
+        "up_time": "08:30",
+        "down_time": "17:30",
+        "route": "Route 5"
+    },
+    {
+        "bus_no": "6",
+        "up_time": "07:45",
+        "down_time": "15:45",
+        "route": "Route 6"
+    },
+    {
+        "bus_no": "7",
+        "up_time": "11:00",
+        "down_time": "20:00",
+        "route": "Route 7"
+    },
+    {
+        "bus_no": "8",
+        "up_time": "07:15",
+        "down_time": "16:15",
+        "route": "Route 8"
+    },
+    {
+        "bus_no": "9",
+        "up_time": "09:45",
+        "down_time": "18:45",
+        "route": "Route 9"
+    },
+    {
+        "bus_no": "10",
+        "up_time": "08:15",
+        "down_time": "17:15",
+        "route": "Route 10"
+    },
+    {
+        "bus_no": "11",
+        "up_time": "10:30",
+        "down_time": "19:30",
+        "route": "Route 11"
+    },
+    {
+        "bus_no": "12",
+        "up_time": "07:00",
+        "down_time": "16:00",
+        "route": "Route 12"
+    },
+    {
+        "bus_no": "13",
+        "up_time": "11:15",
+        "down_time": "20:15",
+        "route": "Route 13"
+    },
+    {
+        "bus_no": "14",
+        "up_time": "08:45",
+        "down_time": "17:45",
+        "route": "Route 14"
+    },
+    {
+        "bus_no": "15",
+        "up_time": "06:30",
+        "down_time": "15:30",
+        "route": "Route 15"
+    },
+    {
+        "bus_no": "16",
+        "up_time": "11:30",
+        "down_time": "20:30",
+        "route": "Route 16"
+    },
+    {
+        "bus_no": "17",
+        "up_time": "07:30",
+        "down_time": "16:30",
+        "route": "Route 17"
+    },
+    {
+        "bus_no": "18",
+        "up_time": "09:15",
+        "down_time": "18:15",
+        "route": "Route 18"
+    },
+    {
+        "bus_no": "19",
+        "up_time": "08:00",
+        "down_time": "17:00",
+        "route": "Route 19"
+    },
+    {
+        "bus_no": "20",
+        "up_time": "10:00",
+        "down_time": "19:00",
+        "route": "Route 20"
+    }
+]

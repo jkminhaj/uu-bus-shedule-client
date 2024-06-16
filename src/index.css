@@ -1,0 +1,22 @@
+/* outlet : default styles for dynamic pages */
+.dynamicPage{
+    padding: 1.25rem;
+    --tw-bg-opacity: 1;
+    background-color: rgb(248 250 252 / var(--tw-bg-opacity));
+    height: 100vh;
+}
+
+/* desktop nav */
+.desktopNav a{
+    
+}
+
+.desktopNav a.active {
+    color: white ;
+    background-color: rgb(104, 158, 240) ;
+    width: 100%;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
